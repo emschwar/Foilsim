@@ -1,7 +1,8 @@
 =============================================================================
 Project:   Foilsim
-Copyright: ©2011 My Company, Inc.
+Copyright: ©2011 SkifNet, Inc.
 =============================================================================
 
-TODO: Describe Your Project
+Foilsim is a port of NASA's FoilSim III project, found at http://www.grc.nasa.gov/WWW/k-12/FoilSim/index.html to Javascript, using SproutCore.
+The goal is to keep it looking as close as possible to the Java applet, but have it work with HTML5 instead of Java.
 
